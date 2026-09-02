@@ -1,6 +1,6 @@
 ### Hi, I'm Sheffin 👋 — DevOps / Cloud Engineer in transition from Software Development
 
-I spent 1.5+ years as a full-stack developer (PHP/Laravel, RESTful APIs, MySQL/PostgreSQL) before moving toward the infrastructure side of the work — cloud deployment, CI/CD, and production reliability. I'm now focused on **DevOps, Cloud Engineering, and SRE roles**.
+I spent 2+ years as a full-stack developer (PHP/Laravel, RESTful APIs, MySQL/PostgreSQL) before moving toward the infrastructure side of the work — cloud deployment, CI/CD, and production reliability. I'm now focused on **DevOps, Cloud Engineering, and SRE roles**.
 
 - 🔭 Currently building and documenting production-style AWS deployments end to end
 - ☁️ AWS Certified Cloud Practitioner & AWS Certified Solutions Architect
