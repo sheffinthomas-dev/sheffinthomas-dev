@@ -1,12 +1,17 @@
-### Hi, I'm Sheffin 👋 — DevOps / Cloud Engineer in transition from Software Development
+### Hi, I'm Sheffin 👋 — DevOps / Cloud Engineer
 
-I spent 2+ years as a full-stack developer (PHP/Laravel, RESTful APIs, MySQL/PostgreSQL) before moving toward the infrastructure side of the work — cloud deployment, CI/CD, and production reliability. I'm now focused on **DevOps, Cloud Engineering, and SRE roles**.
+I have 2 years of experience spanning software development and cloud 
+infrastructure operations. As Team Lead at World e Mart, I managed AWS 
+EC2 deployment architecture, CI/CD pipelines, and SSH-based server 
+operations — cutting deployment time by 65% and enabling zero-downtime, 
+multi-daily releases. I'm now focused on **DevOps, Cloud Engineering, 
+and SRE roles**.
 
 - 🔭 Currently building and documenting production-style AWS deployments end to end
 - ☁️ AWS Certified Cloud Practitioner & AWS Certified Solutions Architect
 - 🛠️ Comfortable with Terraform, Docker, GitHub Actions CI/CD, Linux, Nginx, and monitoring with Prometheus/Grafana/CloudWatch
 - 🐘 Background in Laravel/PHP — I understand the applications I'm deploying, not just the infra around them
-- 📄 [Resume](#) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/sheffin-thomas/)
+- 📄 [Resume](https://github.com/sheffinthomas-dev/sheffinthomas-dev/blob/main/Sheffin_Thomas.pdf) · [LinkedIn](https://www.linkedin.com/in/sheffin-thomas-dev/)
 
 ---
 
@@ -25,4 +30,4 @@ A production-style deployment of an open-source Laravel job board: containerized
 
 ---
 
-📫 Reach me at **sheffinthomascareer@gmail.com** or on [LinkedIn](https://www.linkedin.com/in/sheffin-thomas/)
+📫 Reach me at **sheffin.thomas.official@gmail.com** or on [LinkedIn](https://www.linkedin.com/in/sheffin-thomas-dev/)
