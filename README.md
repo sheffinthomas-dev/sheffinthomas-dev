@@ -11,7 +11,7 @@ and SRE roles**.
 - ☁️ AWS Certified Cloud Practitioner & AWS Certified Solutions Architect
 - 🛠️ Comfortable with Terraform, Docker, GitHub Actions CI/CD, Linux, Nginx, and monitoring with Prometheus/Grafana/CloudWatch
 - 🐘 Background in Laravel/PHP — I understand the applications I'm deploying, not just the infra around them
-- 📄 [Resume](https://github.com/sheffinthomas-dev/sheffinthomas-dev/blob/main/Sheffin_Thomas.pdf) · [LinkedIn](https://www.linkedin.com/in/sheffin-thomas-dev/)
+- 📄 [Resume](https://github.com/sheffinthomas-dev/sheffinthomas-dev/blob/main/Sheffin_Thomas_Resume.pdf) · [LinkedIn](https://www.linkedin.com/in/sheffin-thomas-dev/)
 
 ---
 
