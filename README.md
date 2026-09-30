@@ -26,7 +26,7 @@ A production-style deployment of an open-source Laravel job board: containerized
 
 `AWS` `Terraform` `Docker` `GitHub Actions` `Linux` `Nginx` `Prometheus` `Grafana` `MySQL` `PostgreSQL` `PHP/Laravel`
 
-**🎓 Certifications:** AWS Certified Solutions Architect · AWS Certified Cloud Practitioner · Terraform Basics (IaC) · Docker for Beginners · Linux Shell Scripting · Linux Unhatched (Cisco)
+🎓 Certifications: AWS Certified Solutions Architect · AWS Certified Cloud Practitioner · DevOps and AI on AWS (Specialization) · Terraform Basics (IaC) · Docker for Beginners · Linux Shell Scripting · Linux Unhatched (Cisco)
 
 ---
 
