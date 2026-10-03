@@ -22,6 +22,13 @@ A production-style deployment of an open-source Laravel job board: containerized
 
 ---
 
+**📌 Second project**
+
+**[Resume Tailor — AI-Powered Resume Customization](https://github.com/sheffinthomas-dev/resume-tailor)**
+A local, privacy-first tool that tailors resumes to job postings using an LLM API and exports ATS-friendly PDF/DOCX documents — no subscription, no third-party SaaS. Includes AI-drafted cover letters, section-by-section tailoring with undo, local ATS keyword scoring, an application tracker, and an automated test suite for the core parsing logic.
+
+---
+
 **🧰 Tech I work with**
 
 `AWS` `Terraform` `Docker` `GitHub Actions` `Linux` `Nginx` `Prometheus` `Grafana` `MySQL` `PostgreSQL` `PHP/Laravel`
